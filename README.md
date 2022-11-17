@@ -1,4 +1,4 @@
-# Fresh Pokemon Demo Code
+# Fresh Pokemon Demo Code: https://deno-pokemon.deno.dev/
 
 This is a demonstration app for Fresh that shows how to use SSR, the islands functionality, APIs and more. You do need to connect it to a [Directus Cloud database](https://directus.cloud/), you can set that up by [following the instructions in the setup project](https://github.com/jherr/build-directus-pokemon-db).
 
